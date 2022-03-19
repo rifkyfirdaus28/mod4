@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzbLctLHwKyyYCm/jwh94loxopRKD9sDPdrQleSk+mVqlz5/Yo9MsQTVWR2xI/+PS/BGmzH9qgsgUNeqQcaaHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\ModulJurnal4-master\\JurnalMod4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
